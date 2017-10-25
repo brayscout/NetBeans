@@ -22,7 +22,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     
-    printf("Hola Mundo de Netbeans");
+    printf("Hola Mundo de Netbeans :D ");
 
     return 0;
 }
